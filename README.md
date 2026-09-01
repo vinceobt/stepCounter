@@ -12,3 +12,4 @@ A small SwiftUI iPhone app for manually adding step samples to Apple Health.
 6. Approve permission when prompted. Verify the entry in **Health > Browse > Activity > Steps**.
 
 HealthKit data is private and permission must be granted on the device. The app writes manual step samples; it does not replace steps automatically recorded by the iPhone or Apple Watch.
+# stepCounter
